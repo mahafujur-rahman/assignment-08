@@ -10,7 +10,7 @@ const AppsPage = () => {
 
     return (
         <div>
-            <div className="grid grid-cols-4 gap-5">
+            <div className="grid grid-cols-4 gap-5 max-w-6xl mx-auto my-20">
                 {apps.map((app) => (
                     <AppComponent key={app.id} app={app} />
                 ))}
