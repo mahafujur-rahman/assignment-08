@@ -4,6 +4,8 @@ import BaseLayout from '../Layouts/BaseLayout';
 import HomePage from "../Pages/HomePage"
 import AppsPage from '../Pages/AppsPage';
 import InstallationPage from '../Pages/InstallationPage';
+import AppsDetails from '../Pages/AppDetails';
+
 export const router = createBrowserRouter([
     {
         path: "/",
@@ -12,7 +14,8 @@ export const router = createBrowserRouter([
         children: [
             {index: true, Component: HomePage},
             {path: "/apps", Component: AppsPage},
-            {path: "/installation", Component: InstallationPage}
+            {path: "apps-details/:id", Component: AppsDetails},
+            {path: "/installation", Component: InstallationPage},
         ]
     }
 ])

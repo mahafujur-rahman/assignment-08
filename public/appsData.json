@@ -1,290 +1,306 @@
 [
-{
-"image": "./ProjectPhotos/image1.png",
-"title": "TechEase Pro",
-"companyName": "ByteForge Labs",
-"id": 1,
-"description": "TechEase Pro is a smart utility manager designed to optimize your device performance.\nIt automatically clears cache, detects junk files, and boosts memory for smoother usage.\nYou can monitor CPU temperature and RAM usage in real time.\nThe app includes an intelligent battery saver with power usage analysis.\nIt helps you identify background apps draining your resources.\nDaily performance reports ensure your phone runs efficiently.\nThere’s also a smart notification cleaner for improved focus.\nTechEase Pro runs quietly in the background with minimal battery impact.\nThe app interface is clean, minimal, and supports dark mode.\nA must-have for anyone looking to extend their device’s lifespan.",
-"size": 38,
-"reviews": 5293,
-"ratingAvg": 4.6,
-"downloads": 850000,
-"ratings": [
-{ "name": "1 star", "count": 250 },
-{ "name": "2 star", "count": 400 },
-{ "name": "3 star", "count": 600 },
-{ "name": "4 star", "count": 1500 },
-{ "name": "5 star", "count": 2543 }
-]
-},
-{
-"image": "./ProjectPhotos/image2.png",
-"title": "PhotoCraft Studio",
-"companyName": "VisionarySoft",
-"id": 2,
-"description": "PhotoCraft Studio is a complete image editing suite built for professionals and hobbyists alike.\nIt offers advanced filters, AI-based background removal, and one-click color correction.\nUsers can design posters, thumbnails, and social media graphics with pre-built templates.\nIt supports RAW image editing and batch processing for photographers.\nPhotoCraft includes layer-based editing and vector drawing tools.\nThe app provides cloud sync for seamless workflow across devices.\nBuilt-in tutorials guide users through creative techniques.\nThe export settings allow high-quality PNG and WEBP outputs.\nOffline mode ensures you can edit anywhere without limits.\nPhotoCraft Studio balances creativity, power, and accessibility beautifully.",
-"size": 92,
-"reviews": 18327,
-"ratingAvg": 4.8,
-"downloads": 2200000,
-"ratings": [
-{ "name": "1 star", "count": 530 },
-{ "name": "2 star", "count": 760 },
-{ "name": "3 star", "count": 1500 },
-{ "name": "4 star", "count": 4900 },
-{ "name": "5 star", "count": 10637 }
-]
-},
-{
-"image": "./ProjectPhotos/image3.png",
-"title": "TaskMinder",
-"companyName": "NextGen Studios",
-"id": 3,
-"description": "TaskMinder helps you organize your life by breaking large goals into manageable steps.\nIt offers a clean and distraction-free interface for tracking tasks.\nYou can set reminders with flexible recurring schedules.\nSmart suggestions help prioritize urgent or overdue activities.\nCollaborate easily with friends or coworkers using shared task lists.\nProgress charts visualize your productivity trends.\nDark and light themes are available for user comfort.\nData syncs automatically across all your signed-in devices.\nOffline mode lets you add or edit tasks even without internet.\nTaskMinder makes productivity feel natural and rewarding every day.",
-"size": 25,
-"reviews": 8642,
-"ratingAvg": 4.5,
-"downloads": 1600000,
-"ratings": [
-{ "name": "1 star", "count": 430 },
-{ "name": "2 star", "count": 500 },
-{ "name": "3 star", "count": 800 },
-{ "name": "4 star", "count": 2400 },
-{ "name": "5 star", "count": 4512 }
-]
-},
-{
-"image": "./ProjectPhotos/image4.png",
-"title": "Learnify Hub",
-"companyName": "MindBloom Co.",
-"id": 4,
-"description": "Learnify Hub is an all-in-one e-learning platform offering video lessons and quizzes.\nCourses span across coding, design, business, and soft skills.\nInteractive flashcards make learning fast and fun.\nIt supports offline downloads for studying anywhere.\nLearners earn badges and certificates for completed modules.\nAI-based recommendations help you find relevant courses easily.\nThe app features discussion groups for collaborative learning.\nProgress is automatically saved and synced to your account.\nDaily reminders encourage consistent study habits.\nLearnify Hub empowers students to grow smarter every day.",
-"size": 68,
-"reviews": 12743,
-"ratingAvg": 4.7,
-"downloads": 1950000,
-"ratings": [
-{ "name": "1 star", "count": 520 },
-{ "name": "2 star", "count": 670 },
-{ "name": "3 star", "count": 1000 },
-{ "name": "4 star", "count": 3100 },
-{ "name": "5 star", "count": 6453 }
-]
-},
-{
-"image": "./ProjectPhotos/image5.png",
-"title": "FitLife Tracker",
-"companyName": "ActiveZone Ltd.",
-"id": 5,
-"description": "FitLife Tracker is a complete health companion for fitness enthusiasts.\nIt tracks your steps, calories, heart rate, and sleep automatically.\nCustom workout plans adjust based on your progress.\nAI nutrition coach suggests balanced meal options daily.\nYou can sync with smartwatches and fitness bands easily.\nIt includes motivational challenges to keep you engaged.\nGraphical reports show weekly and monthly fitness trends.\nBuilt-in community lets you compete with friends.\nThe app works offline for step tracking and daily logs.\nFitLife helps you stay disciplined and achieve real health goals.",
-"size": 74,
-"reviews": 21492,
-"ratingAvg": 4.9,
-"downloads": 4500000,
-"ratings": [
-{ "name": "1 star", "count": 720 },
-{ "name": "2 star", "count": 940 },
-{ "name": "3 star", "count": 1400 },
-{ "name": "4 star", "count": 5000 },
-{ "name": "5 star", "count": 11432 }
-]
-},
-{
-"image": "./ProjectPhotos/image6.png",
-"title": "NoteWave",
-"companyName": "Paperless Systems",
-"id": 6,
-"description": "NoteWave is a cloud-synced note-taking app built for creators and students.\nIt supports handwriting, text, and voice notes with instant syncing.\nRich text editing tools let you format and highlight easily.\nYou can organize notes by color-coded categories.\nIts offline support ensures you never lose ideas.\nVoice-to-text conversion allows instant transcription.\nThe interface mimics real paper with fluid animations.\nTeam collaboration lets multiple users share notebooks.\nBuilt-in templates make project planning faster.\nNoteWave is where creativity meets productivity seamlessly.",
-"size": 49,
-"reviews": 9521,
-"ratingAvg": 4.4,
-"downloads": 1200000,
-"ratings": [
-{ "name": "1 star", "count": 620 },
-{ "name": "2 star", "count": 800 },
-{ "name": "3 star", "count": 1200 },
-{ "name": "4 star", "count": 3000 },
-{ "name": "5 star", "count": 3901 }
-]
-},
-{
-"image": "./ProjectPhotos/image7.png",
-"title": "CookMaster Pro",
-"companyName": "TastyWorks Inc.",
-"id": 7,
-"description": "CookMaster Pro is your personal digital cookbook and meal planner.\nBrowse over 50,000 recipes from global cuisines.\nStep-by-step guided cooking ensures perfect results every time.\nSmart ingredient filters help adapt recipes for dietary needs.\nThe grocery list feature automatically updates as you add recipes.\nUsers can upload and share their own creations.\nVideo tutorials simplify complex dishes for beginners.\nThe app tracks your cooking history and preferences.\nOffline access ensures you can cook anywhere.\nCookMaster Pro brings the joy of cooking right to your kitchen.",
-"size": 61,
-"reviews": 17568,
-"ratingAvg": 4.8,
-"downloads": 2800000,
-"ratings": [
-{ "name": "1 star", "count": 530 },
-{ "name": "2 star", "count": 640 },
-{ "name": "3 star", "count": 1100 },
-{ "name": "4 star", "count": 4100 },
-{ "name": "5 star", "count": 9198 }
-]
-},
-{
-"image": "./ProjectPhotos/image8.png",
-"title": "TravelSync",
-"companyName": "Voyage Systems",
-"id": 8,
-"description": "TravelSync is an all-in-one travel planner and itinerary organizer.\nIt allows users to store flight tickets, hotel bookings, and notes in one place.\nOffline maps ensure smooth navigation during trips.\nIt includes local currency converters and weather forecasts.\nAI trip suggestions recommend hidden gems based on your interests.\nYou can share itineraries with friends and collaborate in real time.\nExpense tracker keeps your budget under control easily.\nEmergency contact info and offline help tips are integrated.\nPush notifications remind you of upcoming bookings.\nTravelSync helps you travel smarter and stress-free worldwide.",
-"size": 88,
-"reviews": 15230,
-"ratingAvg": 4.6,
-"downloads": 3100000,
-"ratings": [
-{ "name": "1 star", "count": 610 },
-{ "name": "2 star", "count": 720 },
-{ "name": "3 star", "count": 1300 },
-{ "name": "4 star", "count": 4800 },
-{ "name": "5 star", "count": 7800 }
-]
-},
-{
-"image": "./ProjectPhotos/image9.png",
-"title": "StockPilot",
-"companyName": "FinTech Nova",
-"id": 9,
-"description": "StockPilot provides powerful analytics for investors and traders.\nIt delivers live market data and personalized stock watchlists.\nAI-driven insights predict possible price movements.\nInteractive charts display technical indicators with clarity.\nYou can set alerts for price or volume changes instantly.\nDaily financial news keeps you updated with trends.\nA virtual portfolio helps beginners practice trading safely.\nData encryption ensures maximum privacy for all users.\nOffline reading mode saves key insights automatically.\nStockPilot turns market chaos into actionable intelligence.",
-"size": 57,
-"reviews": 9654,
-"ratingAvg": 4.5,
-"downloads": 1350000,
-"ratings": [
-{ "name": "1 star", "count": 400 },
-{ "name": "2 star", "count": 520 },
-{ "name": "3 star", "count": 900 },
-{ "name": "4 star", "count": 2600 },
-{ "name": "5 star", "count": 5234 }
-]
-},
-{
-"image": "./ProjectPhotos/image10.png",
-"title": "MusicMate",
-"companyName": "RhythmWare",
-"id": 10,
-"description": "MusicMate brings all your favorite tunes together in one smart platform.\nIt supports both streaming and offline playback with high-quality audio.\nSmart playlists are auto-generated based on your listening habits.\nYou can share songs with friends through built-in links.\nLyrics sync in real-time for karaoke enthusiasts.\nThe equalizer offers multiple sound profiles and custom settings.\nDark mode enhances nighttime listening experiences.\nCloud backup ensures your playlists are never lost.\nMinimal ads and smooth transitions make it seamless.\nMusicMate makes music personal, powerful, and portable.",
-"size": 73,
-"reviews": 32400,
-"ratingAvg": 4.9,
-"downloads": 5400000,
-"ratings": [
-{ "name": "1 star", "count": 1000 },
-{ "name": "2 star", "count": 1200 },
-{ "name": "3 star", "count": 2200 },
-{ "name": "4 star", "count": 7000 },
-{ "name": "5 star", "count": 21200 }
-]
-},
-{
-"image": "./ProjectPhotos/image11.png",
-"title": "WeatherNova",
-"companyName": "SkyTrend Technologies",
-"id": 11,
-"description": "WeatherNova delivers hyper-accurate weather forecasts powered by satellite data.\nIt updates every 10 minutes for global accuracy.\nInteractive radar maps show precipitation and wind movement.\nSevere weather alerts notify users instantly.\nCustom themes and widgets personalize your home screen.\nIt supports voice command forecasts for hands-free usage.\nOffline mode keeps previous forecasts cached.\nTravel mode adjusts predictions based on location.\nClean charts show temperature, humidity, and UV trends.\nWeatherNova redefines reliability in weather prediction apps.",
-"size": 41,
-"reviews": 10432,
-"ratingAvg": 4.7,
-"downloads": 1800000,
-"ratings": [
-{ "name": "1 star", "count": 480 },
-{ "name": "2 star", "count": 600 },
-{ "name": "3 star", "count": 1100 },
-{ "name": "4 star", "count": 2900 },
-{ "name": "5 star", "count": 5352 }
-]
-},
-{
-"image": "./ProjectPhotos/image12.png",
-"title": "BudgetBee",
-"companyName": "FinSmart Apps",
-"id": 12,
-"description": "BudgetBee helps you take control of your finances with clarity and simplicity.\nIt tracks income, expenses, and savings goals.\nSmart categorization organizes your transactions automatically.\nCharts and graphs show spending patterns in real time.\nYou can export data in CSV or PDF formats.\nThe app includes budget reminders and alerts for overspending.\nIt supports multiple currencies and wallets.\nOffline mode ensures you can log expenses anytime.\nAll data is encrypted and stored securely in the cloud.\nBudgetBee turns financial planning into an effortless routine.",
-"size": 32,
-"reviews": 8340,
-"ratingAvg": 4.6,
-"downloads": 1300000,
-"ratings": [
-{ "name": "1 star", "count": 380 },
-{ "name": "2 star", "count": 420 },
-{ "name": "3 star", "count": 900 },
-{ "name": "4 star", "count": 2500 },
-{ "name": "5 star", "count": 4140 }
-]
-},
-{
-"image": "./ProjectPhotos/image13.png",
-"title": "GamePulse",
-"companyName": "ElitePlay Labs",
-"id": 13,
-"description": "GamePulse keeps gamers updated with the latest releases and reviews.\nIt aggregates gaming news, trailers, and patch notes.\nUsers can follow their favorite franchises and get instant alerts.\nBuilt-in review tools let players rate and discuss games.\nYou can track achievements across multiple platforms.\nThe app offers curated recommendations based on genre preferences.\nA community forum helps connect with fellow gamers.\nOffline reading ensures you can enjoy articles anytime.\nGamePulse also includes event countdowns and eSports updates.\nIt’s your all-in-one hub for the gaming world.",
-"size": 65,
-"reviews": 9875,
-"ratingAvg": 4.5,
-"downloads": 2000000,
-"ratings": [
-{ "name": "1 star", "count": 520 },
-{ "name": "2 star", "count": 650 },
-{ "name": "3 star", "count": 900 },
-{ "name": "4 star", "count": 2800 },
-{ "name": "5 star", "count": 5005 }
-]
-},
-{
-"image": "./ProjectPhotos/image14.png",
-"title": "MindPeace",
-"companyName": "CalmMind Studio",
-"id": 14,
-"description": "MindPeace helps you reduce stress through meditation and mindfulness exercises.\nIt includes guided audio sessions for focus, relaxation, and sleep.\nBreathing trackers improve calmness and heart rhythm control.\nDaily reminders help maintain consistent practice.\nProgress tracking motivates users with streak counts.\nOffline mode supports meditations without internet.\nSleep sounds and ambient music enhance rest quality.\nExperts curate new sessions weekly for all experience levels.\nA minimalist interface ensures a serene experience.\nMindPeace brings peace and clarity to everyday life.",
-"size": 52,
-"reviews": 17800,
-"ratingAvg": 4.9,
-"downloads": 3700000,
-"ratings": [
-{ "name": "1 star", "count": 490 },
-{ "name": "2 star", "count": 600 },
-{ "name": "3 star", "count": 1100 },
-{ "name": "4 star", "count": 4300 },
-{ "name": "5 star", "count": 11310 }
-]
-},
-{
-"image": "./ProjectPhotos/image15.png",
-"title": "Langify",
-"companyName": "LinguaCore",
-"id": 15,
-"description": "Langify is a smart AI-powered language learning app.\nIt adapts to your skill level using spaced repetition algorithms.\nInteractive voice recognition helps with pronunciation accuracy.\nDaily challenges make practice engaging and fun.\nIt supports over 30 global languages including Spanish, French, and Japanese.\nOffline lessons allow uninterrupted study sessions.\nGrammar explanations are clear and supported with examples.\nProgress analytics visualize your learning curve.\nLeaderboard rankings add friendly competition.\nLangify transforms language learning into a daily adventure.",
-"size": 63,
-"reviews": 19874,
-"ratingAvg": 4.8,
-"downloads": 4100000,
-"ratings": [
-{ "name": "1 star", "count": 640 },
-{ "name": "2 star", "count": 710 },
-{ "name": "3 star", "count": 1300 },
-{ "name": "4 star", "count": 4900 },
-{ "name": "5 star", "count": 10324 }
-]
-},
-{
-"image": "./ProjectPhotos/image16.png",
-"title": "DocVault",
-"companyName": "SecureWorks",
-"id": 16,
-"description": "DocVault is a secure document manager for personal and business users.\nIt allows encrypted storage of IDs, certificates, and PDFs.\nSmart OCR technology extracts text for easy searching.\nYou can organize files into folders and add tags for quick access.\nBiometric and PIN protection secure your sensitive data.\nThe app supports automatic cloud backup and sync.\nOffline access ensures you can open files without internet.\nDocument scanning uses AI edge detection for clarity.\nVersion history lets you track changes to important files.\nDocVault is your portable, encrypted office companion.",
-"size": 54,
-"reviews": 15240,
-"ratingAvg": 4.7,
-"downloads": 2500000,
-"ratings": [
-{ "name": "1 star", "count": 480 },
-{ "name": "2 star", "count": 600 },
-{ "name": "3 star", "count": 1100 },
-{ "name": "4 star", "count": 4200 },
-{ "name": "5 star", "count": 6860 }
-]
-}
+  {
+    "image": "https://i.ibb.co.com/NgszCDfd/imag3.png",
+    "imageAlt": "TechEase Pro app icon",
+    "title": "TechEase Pro",
+    "companyName": "ByteForge Labs",
+    "id": 1,
+    "description": "TechEase Pro is a smart utility manager designed to optimize your device performance.\nIt automatically clears cache, detects junk files, and boosts memory for smoother usage.\nYou can monitor CPU temperature and RAM usage in real time.\nThe app includes an intelligent battery saver with power usage analysis.\nIt helps you identify background apps draining your resources.\nDaily performance reports ensure your phone runs efficiently.\nThere’s also a smart notification cleaner for improved focus.\nTechEase Pro runs quietly in the background with minimal battery impact.\nThe app interface is clean, minimal, and supports dark mode.\nA must-have for anyone looking to extend their device’s lifespan.",
+    "size": 38,
+    "reviews": 5293,
+    "ratingAvg": 4.6,
+    "downloads": "0.85M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2543 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tMKGLPr4/image1.png",
+    "imageAlt": "PhotoCraft Studio app icon",
+    "title": "PhotoCraft Studio",
+    "companyName": "VisionarySoft",
+    "id": 2,
+    "description": "PhotoCraft Studio is a complete image editing suite built for professionals and hobbyists alike.\nIt offers advanced filters, AI-based background removal, and one-click color correction.\nUsers can design posters, thumbnails, and social media graphics with pre-built templates.\nIt supports RAW image editing and batch processing for photographers.\nPhotoCraft includes layer-based editing and vector drawing tools.\nThe app provides cloud sync for seamless workflow across devices.\nBuilt-in tutorials guide users through creative techniques.\nThe export settings allow high-quality PNG and WEBP outputs.\nOffline mode ensures you can edit anywhere without limits.\nPhotoCraft Studio balances creativity, power, and accessibility beautifully.",
+    "size": 92,
+    "reviews": 18327,
+    "ratingAvg": 4.8,
+    "downloads": "2.2M",
+    "ratings": [
+      { "name": "1 star", "count": 530 },
+      { "name": "2 star", "count": 760 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 10637 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LXJjXjFJ/image2.png",
+    "imageAlt": "TaskMinder app icon",
+    "title": "TaskMinder",
+    "companyName": "NextGen Studios",
+    "id": 3,
+    "description": "TaskMinder helps you organize your life by breaking large goals into manageable steps.\nIt offers a clean and distraction-free interface for tracking tasks.\nYou can set reminders with flexible recurring schedules.\nSmart suggestions help prioritize urgent or overdue activities.\nCollaborate easily with friends or coworkers using shared task lists.\nProgress charts visualize your productivity trends.\nDark and light themes are available for user comfort.\nData syncs automatically across all your signed-in devices.\nOffline mode lets you add or edit tasks even without internet.\nTaskMinder makes productivity feel natural and rewarding every day.",
+    "size": 25,
+    "reviews": 8642,
+    "ratingAvg": 4.5,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 430 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4512 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sdszLbHQ/image4.png",
+    "imageAlt": "Learnify Hub app icon",
+    "title": "Learnify Hub",
+    "companyName": "MindBloom Co.",
+    "id": 4,
+    "description": "Learnify Hub is an all-in-one e-learning platform offering video lessons and quizzes.\nCourses span across coding, design, business, and soft skills.\nInteractive flashcards make learning fast and fun.\nIt supports offline downloads for studying anywhere.\nLearners earn badges and certificates for completed modules.\nAI-based recommendations help you find relevant courses easily.\nThe app features discussion groups for collaborative learning.\nProgress is automatically saved and synced to your account.\nDaily reminders encourage consistent study habits.\nLearnify Hub empowers students to grow smarter every day.",
+    "size": 68,
+    "reviews": 12743,
+    "ratingAvg": 4.7,
+    "downloads": "1.95M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 670 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 6453 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/p6Nyqyhy/image5.png",
+    "imageAlt": "FitLife Tracker app icon",
+    "title": "FitLife Tracker",
+    "companyName": "ActiveZone Ltd.",
+    "id": 5,
+    "description": "FitLife Tracker is a complete health companion for fitness enthusiasts.\nIt tracks your steps, calories, heart rate, and sleep automatically.\nCustom workout plans adjust based on your progress.\nAI nutrition coach suggests balanced meal options daily.\nYou can sync with smartwatches and fitness bands easily.\nIt includes motivational challenges to keep you engaged.\nGraphical reports show weekly and monthly fitness trends.\nBuilt-in community lets you compete with friends.\nThe app works offline for step tracking and daily logs.\nFitLife helps you stay disciplined and achieve real health goals.",
+    "size": 74,
+    "reviews": 21492,
+    "ratingAvg": 4.9,
+    "downloads": "4.5M",
+    "ratings": [
+      { "name": "1 star", "count": 720 },
+      { "name": "2 star", "count": 940 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 11432 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KjyKnn81/image6.png",
+    "imageAlt": "NoteWave app icon",
+    "title": "NoteWave",
+    "companyName": "Paperless Systems",
+    "id": 6,
+    "description": "NoteWave is a cloud-synced note-taking app built for creators and students.\nIt supports handwriting, text, and voice notes with instant syncing.\nRich text editing tools let you format and highlight easily.\nYou can organize notes by color-coded categories.\nIts offline support ensures you never lose ideas.\nVoice-to-text conversion allows instant transcription.\nThe interface mimics real paper with fluid animations.\nTeam collaboration lets multiple users share notebooks.\nBuilt-in templates make project planning faster.\nNoteWave is where creativity meets productivity seamlessly.",
+    "size": 49,
+    "reviews": 9521,
+    "ratingAvg": 4.4,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3901 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/h1V0RyxY/image7.png",
+    "imageAlt": "CookMaster Pro app icon",
+    "title": "CookMaster Pro",
+    "companyName": "TastyWorks Inc.",
+    "id": 7,
+    "description": "CookMaster Pro is your personal digital cookbook and meal planner.\nBrowse over 50,000 recipes from global cuisines.\nStep-by-step guided cooking ensures perfect results every time.\nSmart ingredient filters help adapt recipes for dietary needs.\nThe grocery list feature automatically updates as you add recipes.\nUsers can upload and share their own creations.\nVideo tutorials simplify complex dishes for beginners.\nThe app tracks your cooking history and preferences.\nOffline access ensures you can cook anywhere.\nCookMaster Pro brings the joy of cooking right to your kitchen.",
+    "size": 61,
+    "reviews": 17568,
+    "ratingAvg": 4.8,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 530 },
+      { "name": "2 star", "count": 640 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 9198 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bMh4tXfR/image8.png",
+    "imageAlt": "TravelSync app icon",
+    "title": "TravelSync",
+    "companyName": "Voyage Systems",
+    "id": 8,
+    "description": "TravelSync is an all-in-one travel planner and itinerary organizer.\nIt allows users to store flight tickets, hotel bookings, and notes in one place.\nOffline maps ensure smooth navigation during trips.\nIt includes local currency converters and weather forecasts.\nAI trip suggestions recommend hidden gems based on your interests.\nYou can share itineraries with friends and collaborate in real time.\nExpense tracker keeps your budget under control easily.\nEmergency contact info and offline help tips are integrated.\nPush notifications remind you of upcoming bookings.\nTravelSync helps you travel smarter and stress-free worldwide.",
+    "size": 88,
+    "reviews": 15230,
+    "ratingAvg": 4.6,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "1 star", "count": 610 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 7800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xK8QRDxs/image9.png",
+    "imageAlt": "StockPilot app icon",
+    "title": "StockPilot",
+    "companyName": "FinTech Nova",
+    "id": 9,
+    "description": "StockPilot provides powerful analytics for investors and traders.\nIt delivers live market data and personalized stock watchlists.\nAI-driven insights predict possible price movements.\nInteractive charts display technical indicators with clarity.\nYou can set alerts for price or volume changes instantly.\nDaily financial news keeps you updated with trends.\nA virtual portfolio helps beginners practice trading safely.\nData encryption ensures maximum privacy for all users.\nOffline reading mode saves key insights automatically.\nStockPilot turns market chaos into actionable intelligence.",
+    "size": 57,
+    "reviews": 9654,
+    "ratingAvg": 4.5,
+    "downloads": "1.35M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 5234 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HDKM61kC/image10.png",
+    "imageAlt": "MusicMate app icon",
+    "title": "MusicMate",
+    "companyName": "RhythmWare",
+    "id": 10,
+    "description": "MusicMate brings all your favorite tunes together in one smart platform.\nIt supports both streaming and offline playback with high-quality audio.\nSmart playlists are auto-generated based on your listening habits.\nYou can share songs with friends through built-in links.\nLyrics sync in real-time for karaoke enthusiasts.\nThe equalizer offers multiple sound profiles and custom settings.\nDark mode enhances nighttime listening experiences.\nCloud backup ensures your playlists are never lost.\nMinimal ads and smooth transitions make it seamless.\nMusicMate makes music personal, powerful, and portable.",
+    "size": 73,
+    "reviews": 32400,
+    "ratingAvg": 4.9,
+    "downloads": "5.4M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 21200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qFBXP3t6/image11.png",
+    "imageAlt": "WeatherNova app icon",
+    "title": "WeatherNova",
+    "companyName": "SkyTrend Technologies",
+    "id": 11,
+    "description": "WeatherNova delivers hyper-accurate weather forecasts powered by satellite data.\nIt updates every 10 minutes for global accuracy.\nInteractive radar maps show precipitation and wind movement.\nSevere weather alerts notify users instantly.\nCustom themes and widgets personalize your home screen.\nIt supports voice command forecasts for hands-free usage.\nOffline mode keeps previous forecasts cached.\nTravel mode adjusts predictions based on location.\nClean charts show temperature, humidity, and UV trends.\nWeatherNova redefines reliability in weather prediction apps.",
+    "size": 41,
+    "reviews": 10432,
+    "ratingAvg": 4.7,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 5352 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/x82gtyXs/image12.png",
+    "imageAlt": "BudgetBee app icon",
+    "title": "BudgetBee",
+    "companyName": "FinSmart Apps",
+    "id": 12,
+    "description": "BudgetBee helps you take control of your finances with clarity and simplicity.\nIt tracks income, expenses, and savings goals.\nSmart categorization organizes your transactions automatically.\nCharts and graphs show spending patterns in real time.\nYou can export data in CSV or PDF formats.\nThe app includes budget reminders and alerts for overspending.\nIt supports multiple currencies and wallets.\nOffline mode ensures you can log expenses anytime.\nAll data is encrypted and stored securely in the cloud.\nBudgetBee turns financial planning into an effortless routine.",
+    "size": 32,
+    "reviews": 8340,
+    "ratingAvg": 4.6,
+    "downloads": "1.3M",
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4140 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ch9cr0fC/image13.png",
+    "imageAlt": "GamePulse app icon",
+    "title": "GamePulse",
+    "companyName": "ElitePlay Labs",
+    "id": 13,
+    "description": "GamePulse keeps gamers updated with the latest releases and reviews.\nIt aggregates gaming news, trailers, and patch notes.\nUsers can follow their favorite franchises and get instant alerts.\nBuilt-in review tools let players rate and discuss games.\nYou can track achievements across multiple platforms.\nThe app offers curated recommendations based on genre preferences.\nA community forum helps connect with fellow gamers.\nOffline reading ensures you can enjoy articles anytime.\nGamePulse also includes event countdowns and eSports updates.\nIt’s your all-in-one hub for the gaming world.",
+    "size": 65,
+    "reviews": 9875,
+    "ratingAvg": 4.5,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5005 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/twjTC8gM/image14.png",
+    "imageAlt": "MindPeace app icon",
+    "title": "MindPeace",
+    "companyName": "CalmMind Studio",
+    "id": 14,
+    "description": "MindPeace helps you reduce stress through meditation and mindfulness exercises.\nIt includes guided audio sessions for focus, relaxation, and sleep.\nBreathing trackers improve calmness and heart rhythm control.\nDaily reminders help maintain consistent practice.\nProgress tracking motivates users with streak counts.\nOffline mode supports meditations without internet.\nSleep sounds and ambient music enhance rest quality.\nExperts curate new sessions weekly for all experience levels.\nA minimalist interface ensures a serene experience.\nMindPeace brings peace and clarity to everyday life.",
+    "size": 52,
+    "reviews": 17800,
+    "ratingAvg": 4.9,
+    "downloads": "3.7M",
+    "ratings": [
+      { "name": "1 star", "count": 490 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 11310 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zhcch4nf/image15.png",
+    "imageAlt": "Langify app icon",
+    "title": "Langify",
+    "companyName": "LinguaCore",
+    "id": 15,
+    "description": "Langify is a smart AI-powered language learning app.\nIt adapts to your skill level using spaced repetition algorithms.\nInteractive voice recognition helps with pronunciation accuracy.\nDaily challenges make practice engaging and fun.\nIt supports over 30 global languages including Spanish, French, and Japanese.\nOffline lessons allow uninterrupted study sessions.\nGrammar explanations are clear and supported with examples.\nProgress analytics visualize your learning curve.\nLeaderboard rankings add friendly competition.\nLangify transforms language learning into a daily adventure.",
+    "size": 63,
+    "reviews": 19874,
+    "ratingAvg": 4.8,
+    "downloads": "4.1M",
+    "ratings": [
+      { "name": "1 star", "count": 640 },
+      { "name": "2 star", "count": 710 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 10324 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bR6GfGMw/image16.png",
+    "imageAlt": "DocVault app icon",
+    "title": "DocVault",
+    "companyName": "SecureWorks",
+    "id": 16,
+    "description": "DocVault is a secure document manager for personal and business users.\nIt allows encrypted storage of IDs, certificates, and PDFs.\nSmart OCR technology extracts text for easy searching.\nYou can organize files into folders and add tags for quick access.\nBiometric and PIN protection secure your sensitive data.\nThe app supports automatic cloud backup and sync.\nOffline access ensures you can open files without internet.\nDocument scanning uses AI edge detection for clarity.\nVersion history lets you track changes to important files.\nDocVault is your portable, encrypted office companion.",
+    "size": 54,
+    "reviews": 15240,
+    "ratingAvg": 4.7,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 6860 }
+    ]
+  }
 ]

@@ -47,23 +47,23 @@ const Hero = () => {
                 <div className="flex justify-center items-center">
                     <img className="w-[500px]" src={hero} alt="" />
                 </div>
-                <div className="bg-gradient-to-tl from-violet-400 to-violet-800 md:px-18 md:py-10 text-white">
+                <div className="bg-gradient-to-tl from-violet-400 to-violet-800 px-5 md:px-18 py-10 md:py-10 text-white">
                     <h3 className="mb-5 text-2xl font-semibold">Trusted by Millions, Built for You</h3>
-                    <div className="flex justify-around items-center">
+                    <div className="flex flex-col md:flex-row gap-y-5 md:gap-y-0 justify-around items-center">
                         <div>
                             <p className="text-sm">Total Downloads</p>
                             <h3 className="text-3xl font-bold my-3">29.6M</h3>
                             <p className="text-sm">21% more than last month</p>
                         </div>
                         <div>
-                            <p className="text-sm">Total Downloads</p>
-                            <h3 className="text-3xl font-bold my-3">29.6M</h3>
-                            <p className="text-sm">21% more than last month</p>
+                            <p className="text-sm">Total Reviews</p>
+                            <h3 className="text-3xl font-bold my-3">906K</h3>
+                            <p className="text-sm">46% more than last month</p>
                         </div>
                         <div>
-                            <p className="text-sm">Total Downloads</p>
-                            <h3 className="text-3xl font-bold my-3">29.6M</h3>
-                            <p className="text-sm">21% more than last month</p>
+                            <p className="text-sm">Active Apps</p>
+                            <h3 className="text-3xl font-bold my-3">132+</h3>
+                            <p className="text-sm">31 more will Launch</p>
                         </div>
                     </div>
                 </div>
