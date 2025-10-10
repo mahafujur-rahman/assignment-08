@@ -1,9 +1,9 @@
 import React from "react";
-import { Link } from "react-router";
+import { useNavigate } from "react-router";
 import appError from "../../assets/App-Error.png";
 
 const AppNotFound = () => {
-
+  const navigate = useNavigate();
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen text-center px-4">
@@ -16,15 +16,14 @@ const AppNotFound = () => {
         Oops!! App Not Found
       </h3>
       <p className="text-gray-600 max-w-md mb-6">
-        The app you’re looking for couldn’t be found in our system. Please try
-        searching for another app or go back to the previous page.
+        The App you are requesting is not found on our system. Please try another app.
       </p>
-      <Link
-        to="/"
+      <button
+        onClick={() => navigate(-1)} 
         className="btn bg-gradient-to-tl from-violet-500 to-violet-800 text-white px-8"
       >
-        Go Home
-      </Link>
+        Go Back!
+      </button>
     </div>
   );
 };

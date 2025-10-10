@@ -4,6 +4,7 @@ import AppComponent from "../Components/AppComponent/AppComponent";
 import { FaSearch } from "react-icons/fa";
 import LoadingError from "../Components/Loading/LoadingError";
 import LoadingSpinner from "../Components/Loading/LoadingSpinner";
+import AppNotFound from "../Components/AppNotFound/AppNotFound";
 
 const AppsPage = () => {
     const { apps, loading, error } = useApps();
@@ -51,7 +52,7 @@ const AppsPage = () => {
                     ))}
                 </div>
             ) : (
-                <p className="text-center text-gray-500 mb-20">No apps found matching your search.</p>
+                <AppNotFound/>
             )}
         </div>
     );

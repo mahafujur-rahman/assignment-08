@@ -15,9 +15,9 @@ export const router = createBrowserRouter([
 
         children: [
             {index: true, Component: HomePage},
-            {path: "/apps", Component: AppsPage},
+            {path: "apps", Component: AppsPage},
             {path: "apps-details/:id", Component: AppsDetails},
-            {path: "/installation", Component: InstallationPage},
+            {path: "installation", Component: InstallationPage},
         ]
     }
 ])
