@@ -6,7 +6,7 @@ AppVerse is a fully responsive React-based web application that allows users to 
 
 ## 🚀 Live Demo
 
-🔗 **Deployed Site:** [Visit AppVerse on Netlify](https://cheery-sawine-1fba7c.netlify.app/)
+🔗 **Deployed Site:** [Visit AppVerse on Netlify](https://curious-dieffenbachia-311770.netlify.app/)
 
 ---
 
