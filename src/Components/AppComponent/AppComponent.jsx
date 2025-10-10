@@ -7,7 +7,7 @@ const AppComponent = ({ app }) => {
     const { image, title, downloads, ratingAvg, id } = app;
 
     return (
-        <Link to={`apps-details/${id}`}>
+        <Link to={`/apps-details/${id}`}>
             <div className="border p-5 bg-white border-gray-200 shadow-md rounded-xl space-y-4 hover:shadow-lg transition ">
                 <div className="border border-violet-200 p-3 rounded-lg flex items-center justify-center ">
                     <img
