@@ -2,13 +2,15 @@ import React, { useState } from "react";
 import useApps from "../Hooks/useApps";
 import AppComponent from "../Components/AppComponent/AppComponent";
 import { FaSearch } from "react-icons/fa";
+import LoadingError from "../Components/Loading/LoadingError";
+import LoadingSpinner from "../Components/Loading/LoadingSpinner";
 
 const AppsPage = () => {
     const { apps, loading, error } = useApps();
     const [searchTerm, setSearchTerm] = useState("");
 
-    if (loading) return <p>Loading...</p>;
-    if (error) return <p>Error loading data!</p>;
+    if (loading) return <LoadingSpinner/>;
+    if (error) return <LoadingError/>;
 
     // Filter apps based on search term
     const filteredApps = apps.filter((app) =>

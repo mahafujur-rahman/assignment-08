@@ -3,12 +3,14 @@ import Hero from "../Components/Hero/Hero";
 import AppComponent from "../Components/AppComponent/AppComponent";
 import useApps from "../Hooks/useApps";
 import { Link } from "react-router";
+import LoadingError from "../Components/Loading/LoadingError";
+import LoadingSpinner from "../Components/Loading/LoadingSpinner";
 
 const Home = () => {
     const { apps, loading, error } = useApps();
 
-    if (loading) return <p>Loading...</p>;
-    if (error) return <p>Error loading data!</p>;
+    if (loading) return <LoadingSpinner/>;
+    if (error) return <LoadingError/>;
 
     return (
         <div>

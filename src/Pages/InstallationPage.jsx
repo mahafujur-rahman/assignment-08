@@ -7,6 +7,10 @@ import {
 import InstalledApp from "../Components/InstalledApp/InstalledApp";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
+import AppNotInstall from "../Components/AppNotInstall/AppNotInstall";
+import { CiPlay1 } from "react-icons/ci";
+import LoadingError from "../Components/Loading/LoadingError";
+import LoadingSpinner from "../Components/Loading/LoadingSpinner";
 
 const MySwal = withReactContent(Swal);
 
@@ -74,10 +78,10 @@ const InstallationPage = () => {
         });
     };
 
-    if (loading) return <p className="text-center mt-10">Loading...</p>;
+    if (loading) return <LoadingSpinner/>;
     if (error)
         return (
-            <p className="text-center mt-10 text-red-500">Error loading apps</p>
+            <LoadingError/>
         );
 
     return (
@@ -89,13 +93,13 @@ const InstallationPage = () => {
                 </p>
             </div>
 
-            {/* Top Filter Row */}
+            
             <div className="mb-5 flex flex-col md:flex-row justify-between items-center gap-3 mx-5 lg:mx-0">
                 <p className="text-gray-600">
                     ({installedApps.length} Apps Found)
                 </p>
 
-                {/* Sort Dropdown */}
+                
                 <div className="relative w-full md:w-72">
                     <select
                         value={sortOrder}
@@ -107,14 +111,14 @@ const InstallationPage = () => {
                         <option value="low-high">Low → High</option>
                     </select>
 
-                    {/* Down arrow */}
+                   
                     <span className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-500">
                         ▼
                     </span>
                 </div>
             </div>
 
-            {/* Installed Apps */}
+            
             {installedApps.length > 0 ? (
                 <div className="space-y-4">
                     {installedApps.map((app) => (
@@ -127,7 +131,7 @@ const InstallationPage = () => {
                 </div>
             ) : (
                 <p className="text-center text-gray-500 mt-10">
-                    No installed apps found
+                    <AppNotInstall/>
                 </p>
             )}
         </div>

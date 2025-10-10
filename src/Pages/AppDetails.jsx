@@ -14,6 +14,9 @@ import {
 import { saveInstalledApp, getInstalledApps } from "../Utility/installedLocal";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
+import AppNotFound from "../Components/AppNotFound/AppNotFound";
+import LoadingError from "../Components/Loading/LoadingError";
+import LoadingSpinner from "../Components/Loading/LoadingSpinner";
 
 const MySwal = withReactContent(Swal);
 
@@ -30,12 +33,10 @@ const AppDetails = () => {
     }, [id]);
 
 
-    if (loading) return <p className="text-center mt-10">Loading...</p>;
+    if (loading) return <LoadingSpinner/>;
     if (error)
         return (
-            <p className="text-center mt-10 text-red-500">
-                Error loading data!
-            </p>
+            <LoadingError/>
         );
 
     const app = Array.isArray(apps)
@@ -44,7 +45,7 @@ const AppDetails = () => {
 
     if (!app) {
         return (
-            <p className="text-center mt-10 text-gray-500">App not found!</p>
+            <AppNotFound/>
         );
     }
 

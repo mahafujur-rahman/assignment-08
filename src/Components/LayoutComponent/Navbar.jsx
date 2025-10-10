@@ -44,17 +44,17 @@ const Navbar = () => {
                         {navLinks}
                     </ul>
                 </div>
-                <a className="text-xl font-semibold flex items-center gap-1">
+                <NavLink to="/"  className="text-xl font-semibold flex items-center gap-1">
                     {" "}
                     <img className="w-[35px] h-[35px]" src={logo} alt="" />{" "}
                     <span>Hero.IO</span>
-                </a>
+                </NavLink>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">{navLinks}</ul>
             </div>
             <div className="navbar-end">
-                <a className="btn bg-gradient-to-tl from-violet-500 to-violet-800 text-white">
+                <a className="btn bg-gradient-to-tl from-violet-500 to-violet-800 text-white" href="https://github.com/mahafujur-rahman" target="_blank">
                     <span className="text-xl "><FaGithub /></span> <span>Contribute</span>
                 </a>
             </div>

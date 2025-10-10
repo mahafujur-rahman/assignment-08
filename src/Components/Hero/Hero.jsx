@@ -19,7 +19,7 @@ const Hero = () => {
                     </p>
 
                     <div className="flex gap-3">
-                        <button className="btn">
+                        <a className="btn" href="https://play.google.com/store/apps?hl=en" target="_blank">
                             {" "}
                             <span>
                                 <img
@@ -28,8 +28,8 @@ const Hero = () => {
                                 />
                             </span>{" "}
                             Google Play
-                        </button>
-                        <button className="btn">
+                        </a>
+                        <a className="btn" href="https://www.apple.com/app-store/" target="_blank">
                             {" "}
                             <span>
                                 <img
@@ -38,7 +38,7 @@ const Hero = () => {
                                 />
                             </span>{" "}
                             App Sore
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>
